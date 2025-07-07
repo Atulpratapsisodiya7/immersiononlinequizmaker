@@ -27,3 +27,8 @@
 .quiz-container:hover {
       transform: scale(1.02);
     }
+.question {
+      font-size: 1.4em;
+      margin-bottom: 25px;
+      color: #2d3436;
+    }
